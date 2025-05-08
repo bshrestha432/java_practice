@@ -26,3 +26,7 @@ let fullName = firstName + ' ' + lastName;
 //getting characters.
 
 console.log(fullName[0]);
+
+//getting length of the character.
+
+console.log(fullName.length);
