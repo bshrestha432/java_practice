@@ -30,3 +30,7 @@ console.log(fullName[0]);
 //getting length of the character.
 
 console.log(fullName.length);
+
+//using string methods and recognizing them.
+
+console.log(fullName.toUpperCase());  //if there is opening and closing small bracket after the word, it is a method.
