@@ -11,11 +11,14 @@ alert ('hello, world');
 //console.log(age, year);
 
 //strings
-
-let email = 'hello@world.ca';
-console.log(email);
+//let email = 'hello@world.ca';
+//console.log(email);
 
 let firstName = 'Bishal';
 let lastName = 'Shrestha';
-console.log(firstName + lastName);
+//console.log(firstName + lastName);
 
+//add first name and last name to make full name.
+
+let fullName = firstName + ' ' + lastName;
+console.log(fullName);
