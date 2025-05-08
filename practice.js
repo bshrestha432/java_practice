@@ -5,7 +5,17 @@ alert ('hello, world');
 //console.log(age);
 
 //display multiple value in the same line.
-let age = 40;
-let year = 2025;
+//let age = 40;
+//let year = 2025;
 
-console.log(age, year);
+//console.log(age, year);
+
+//strings
+
+let email = 'hello@world.ca';
+console.log(email);
+
+let firstName = 'Bishal';
+let lastName = 'Shrestha';
+console.log(firstName + lastName);
+
