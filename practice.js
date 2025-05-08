@@ -38,6 +38,22 @@ let email = 'hello@world.ca';
 
 //common string methods.
 
-let result = email.slice(0,5);
+//let result = email.slice(0,5);
 
-console.log(result);
+//console.log(result);
+
+//mathematics in javascript.
+
+let price = 100;
+
+console.log(price/5);
+console.log(price*5);
+console.log(price+5);
+console.log(price-5);
+console.log(price**5);
+
+//where:     / = division
+          // * = multiplication
+          // - = subtraction
+          // + = addition
+          // ** = power toString.
