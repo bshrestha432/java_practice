@@ -21,4 +21,8 @@ let lastName = 'Shrestha';
 //add first name and last name to make full name.
 
 let fullName = firstName + ' ' + lastName;
-console.log(fullName);
+//console.log(fullName);
+
+//getting characters.
+
+console.log(fullName[0]);
