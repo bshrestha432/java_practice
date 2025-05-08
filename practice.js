@@ -11,26 +11,33 @@ alert ('hello, world');
 //console.log(age, year);
 
 //strings
-//let email = 'hello@world.ca';
+let email = 'hello@world.ca';
 //console.log(email);
 
-let firstName = 'Bishal';
-let lastName = 'Shrestha';
+//let firstName = 'Bishal';
+//let lastName = 'Shrestha';
 //console.log(firstName + lastName);
 
 //add first name and last name to make full name.
 
-let fullName = firstName + ' ' + lastName;
+//let fullName = firstName + ' ' + lastName;
 //console.log(fullName);
 
 //getting characters.
 
-console.log(fullName[0]);
+//console.log(fullName[0]);
 
 //getting length of the character.
 
-console.log(fullName.length);
+//console.log(fullName.length);
 
 //using string methods and recognizing them.
 
-console.log(fullName.toUpperCase());  //if there is opening and closing small bracket after the word, it is a method.
+//console.log(fullName.toUpperCase());  //if there is opening and closing small bracket after the word, it is a method.
+
+
+//common string methods.
+
+let result = email.slice(0,5);
+
+console.log(result);
